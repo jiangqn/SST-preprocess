@@ -1,5 +1,4 @@
 # SST-preprocess
-Preprocess stanford sentiment treebank dataset for sentiment classification.
 
 This is a python script for converting Stanford Sentiment Treebank dataset (https://nlp.stanford.edu/sentiment/index.html) to common used text classification format.
 
